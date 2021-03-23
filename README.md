@@ -40,9 +40,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsuzzaman321&" alt="shamsuzzaman321" /></p>
 
-<p><img align="center" src="https://user-images.githubusercontent.com/42300174/112194928-966eda00-8c33-11eb-9526-db089b08bf3a.gif/?user=shamsuzzaman321&" alt="EatSleepCode" /></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/42300174/112194928-966eda00-8c33-11eb-9526-db089b08bf3a.gif/?user=shamsuzzaman321&"/></p>
 
-![matrix](https://user-images.githubusercontent.com/42300174/112194928-966eda00-8c33-11eb-9526-db089b08bf3a.gif)
+
 
 
 
