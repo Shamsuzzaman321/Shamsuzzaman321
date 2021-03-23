@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsuzzaman321&label=Profile%20views&color=0e75b6&style=flat" alt="shamsuzzaman321" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@mdschamsuzzaman" target="blank"><img src="https://img.shields.io/twitter/follow/@mdschamsuzzaman?logo=twitter&style=for-the-badge" alt="@mdschamsuzzaman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mdschamsuzzaman" target="blank"><img src="https://img.shields.io/twitter/follow/mdschamsuzzaman?logo=twitter&style=for-the-badge" alt="mdschamsuzzaman" /></a> </p>
 
 - 🔭 I’m currently working on [Django+RESTAPI+React.js](https://github.com/Shamsuzzaman321/herokudjangoreact)
 
@@ -22,10 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/md.shamsuzzaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="md.shamsuzzaman" height="30" width="40" /></a>
-<a href="https://twitter.com/@mdschamsuzzaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@mdschamsuzzaman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md.shamsuzzaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md.shamsuzzaman" height="30" width="40" /></a>
+<a href="https://twitter.com/mdschamsuzzaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdschamsuzzaman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-shamsuzzaman-543ba489" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md-shamsuzzaman-543ba489" height="30" width="40" /></a>
 <a href="https://codesandbox.com/md.shamsuzzaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="md.shamsuzzaman" height="30" width="40" /></a>
-<a href="https://fb.com/md.shamsuzzaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="md.shamsuzzaman" height="30" width="40" /></a>
+<a href="https://fb.com/john.wick.finalchapter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="john.wick.finalchapter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
